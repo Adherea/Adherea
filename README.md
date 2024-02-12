@@ -7,7 +7,7 @@ I am Ditya Apriatama Sismantoro, [Bumigora University](https://universitasbumigo
 - 👨🏽‍💻 Utilizing the technology of Javascript language library React.js and Tailwind CSS for the framework layout of Front End development projects.
 - 📲 Having a good knowledge of Java programming language and Android development.
 
-If you are interested in collaboration, please don't hesitate to get in touch [with me!](https://www.linkedin.com/in/ditya-apriatama-sismantoro-75061928b/). Looking forward to potential opportunities to work together!
+If you are interested in collaboration, please don't hesitate to get in touch [with me!](https://www.linkedin.com/in/ditya-apriatama-sismantoro-75061928b/). Looking forward for the potential opportunities to working together with you!
 
 
 # 💻Tech stack 
